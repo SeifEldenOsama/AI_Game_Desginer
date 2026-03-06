@@ -1,4 +1,10 @@
 import argparse
+import sys
+from pathlib import Path
+
+# Add src to the Python path
+sys.path.append(str(Path(__file__).parent / "src"))
+
 from train import train
 from app import ui
 

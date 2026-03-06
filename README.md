@@ -55,10 +55,11 @@ For interactive experimentation, you can use the provided Jupyter notebook:
 ## 📂 Project Structure
 
 - `main.py`: Entry point for the application.
-- `train.py`: Logic for the LoRA fine-tuning process.
-- `app.py`: Gradio web interface for inference.
-- `model.py`: Dataset and model loading utilities.
-- `config.py`: Configuration parameters for training and inference.
+- `src/`: Directory containing the core logic.
+  - `train.py`: Logic for the LoRA fine-tuning process.
+  - `app.py`: Gradio web interface for inference.
+  - `model.py`: Dataset and model loading utilities.
+  - `config.py`: Configuration parameters for training and inference.
 - `requirements.txt`: List of required Python packages.
 
 ## 📜 License
