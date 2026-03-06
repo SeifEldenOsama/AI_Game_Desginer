@@ -1,0 +1,11 @@
+diffusers==0.30.3
+transformers==4.41.2
+accelerate
+safetensors
+peft
+datasets
+gradio
+Pillow
+torchvision
+torch
+huggingface_hub==0.23.4
