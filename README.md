@@ -61,7 +61,3 @@ For interactive experimentation, you can use the provided Jupyter notebook:
   - `model.py`: Dataset and model loading utilities.
   - `config.py`: Configuration parameters for training and inference.
 - `requirements.txt`: List of required Python packages.
-
-## 📜 License
-
-This project is licensed under the MIT License.
